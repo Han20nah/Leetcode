@@ -2,7 +2,7 @@ package exercise1;
 
 public class Solution {
     /**
-     *  Topic:Valid Palindrome
+     * Topic:Valid Palindrome
      * Determines whether the given string is a palindrome (reads the same forward and backward).
      * Considers only alphanumeric characters and ignores other characters.
      *
